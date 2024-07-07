@@ -1,0 +1,17 @@
+
+body {
+    background-image: url("pic.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+#flagImg{
+    height: auto;
+    width: 150px ;
+    margin-bottom: 20px;
+}
+
+.row{
+
+}
